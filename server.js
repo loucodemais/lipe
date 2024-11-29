@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const selfsigned = require('selfsigned');
 
-const PORT = 8080;
+const PORT = 8001;
 
 // Define certificate and key file paths
 const certFile = 'server.cert';
