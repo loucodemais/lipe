@@ -1,0 +1,16 @@
+Server:
+
+Cliente:
+Conectar no servidor
+Adicionar nave cliente
+Mover nave cliente
+Adicionar nave outros clientes
+Mover nave outros clientes
+Remover nave outros clientes
+
+Calcular safe zone
+
+Criar inimigo fora da safe zone
+Inimigo se mover até player mais proximo
+Mover inimigo
+Remover inimigo

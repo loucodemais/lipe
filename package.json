@@ -1,8 +1,5 @@
 {
-  "dependencies": {
-    "selfsigned": "^2.4.1"
-  },
-  "name": "jogos",
+  "name": "lipe",
   "version": "1.0.0",
   "main": "SpaceShooting.audio.worklet.js",
   "scripts": {
@@ -11,5 +8,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "selfsigned": "^2.4.1",
+    "uuid": "^11.0.3",
+    "ws": "^8.18.0"
+  }
 }
